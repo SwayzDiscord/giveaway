@@ -3,7 +3,7 @@
 
 **A Discord Giveaway Bot Written In Discord.js to fulfil all your needs! ranging from server requirements to a responsive create giveaways command**
 
-## **This GiveawayBot was created by 0_0#6666**
+## **This GiveawayBot was created by 0_0#6666, and Dripzy#6126**
 
 [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
 
@@ -31,16 +31,12 @@
 - Direct Message When User Reacts on an ended giveaway
 # Links
 - 🔗 [Youtube Channel](https://www.youtube.com/c/ZeroSync)
-- [Support Server Link](https://discord.gg/HEpHMPsUvC)
-# Copyright 
-Copyright 2021 © All RIghts are Reserved 
-# License
-**Creative Commons Zero v1.0 Universal**
-[View the license here](https://github.com/ZeroDiscord/Giveaway/blob/main/LICENSE)
+- 🔗 [Youtube Channel](https://www.youtube.com/channel/UCFrQp5oQK1BUxyUjGs8toGw)
+- [Support Server Link](https://discord.gg/Kk4krCjTmb)
 
 **NOTE**
-**`` Please note that repl.it is not really a stable host as well as glitch, keeping that in mind I would like to tell you that you may consider hosting somewhere else or you can Direct Message 0_0#6666 on Discord and I will provide you a host for boosting our server! ``**
+**`` Please note that repl.it is not really a stable host as well as glitch, keeping that in mind I would like to tell you that you may consider hosting somewhere else or you can Direct Message Dripzy#6126 on Discord and I will provide you a hosting website for repl.it``**
 
-# [Host On Repl.it](https://repl.it/github/ZeroDiscord/Giveaway)
+# [Host On Repl.it](https://repl.it/github/CxtrollerFN/Giveaway)
 # Remix On Glitch
 [![Remix On Glitch](https://cdn.glitch.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Fremix-button.svg?1504724691606)](https://glitch.com/edit/#!/import/github/ZeroDiscord/Giveaway)
