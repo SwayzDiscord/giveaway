@@ -30,8 +30,8 @@
 - Direct message when the server mentioned for joining is joined 
 - Direct Message When User Reacts on an ended giveaway
 # Links
-- 🔗 [Youtube Channel](https://www.youtube.com/c/ZeroSync)
-- 🔗 [Youtube Channel](https://www.youtube.com/channel/UCFrQp5oQK1BUxyUjGs8toGw)
+- 🔗 [Youtube Channel ZeroDiscord](https://www.youtube.com/c/ZeroSync)
+- 🔗 [Youtube Channel Dripzy](https://www.youtube.com/channel/UCFrQp5oQK1BUxyUjGs8toGw)
 - [Support Server Link](https://discord.gg/Kk4krCjTmb)
 
 **NOTE**
