@@ -14,7 +14,6 @@ module.exports.run = async (client, message, args) => {
     .addField("Examples", `${prefix}start #giveaway 5m 1 Testing\n${prefix}end Testing\n${prefix}reroll Testing`)
     .addField("Utility", `${prefix}ping, ${prefix}invite`, true)
     .addField("ℹ Information", `${prefix}stats`, false)
-    .addField("Check out", "[This Channel](https://www.youtube.com/c/ZeroSync) to make your own giveaway bot")
     .setTimestamp()
     .setFooter(`Command Requested By ${message.author.tag}`, client.user.displayAvatarURL());
   message.channel.send("**Sent the commands in Direct Messages! 💌, Check DMs**");
